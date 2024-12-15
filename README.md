@@ -4,15 +4,22 @@ This is a movie recommendation system built using machine learning techniques. T
 
 Features
 Movie Recommendations: Given a movie title, the system will recommend 5 similar movies based on the tags.
+
 Cosine Similarity: The recommendation is powered by cosine similarity between movie vectors derived from movie tags.
+
 CountVectorizer: Transforms movie tags into numerical features for the model.
+
 
 Tech Stack
 
 Python: Programming language used.
+
 Scikit-learn: Machine learning library used for feature extraction and calculating similarity.
+
 Pandas: For data manipulation and handling the movie dataset.
+
 NumPy: For handling arrays and numerical operations.
+
 Example Output
 Given the movie "The Matrix", the output will display 5 similar movies based on the tags:
 
