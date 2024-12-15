@@ -1,4 +1,4 @@
-#Using machine learning and streamlite to make a movie recommender system
+Using machine learning and streamlite to make a movie recommender system
 
 This is a movie recommendation system built using machine learning techniques. The system suggests movies based on the similarity of movie tags using cosine similarity. It utilizes a CountVectorizer to transform movie tags into feature vectors and then calculates the similarity between movies.
 
